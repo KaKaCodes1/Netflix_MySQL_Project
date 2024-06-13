@@ -2,7 +2,8 @@
 
 <h2>1. Data Dive (10 pts):</h2>
 
-So I decided to choose the Social Media Users Dataset to work on in my project. I did not encounter any challenges when importing the CSV file into MySQL Workbench. I did notice though, that some of the rows have empty fields and I think it will be interesting to work with that.<br>
+So I decided to choose the Social Media Users Dataset to work on in my project. I did not encounter any challenges when importing the CSV file into MySQL Workbench.
+The interesting thing about this dataset is that it has a lot of rows/data compared to what we have been using in class. I also noticed, compared to the Netfix Dataset, there are no empty/null values. This makes working with this dataset relatively easier.<br>
 <a href='https://docs.google.com/document/d/1JXnDeebj4ZgFVZ-LHA54-L62VKYUQ8nezWuF9QcHF2c/edit?usp=sharing'>Link to Google docs containing the SQL Queries</a>
 
 
