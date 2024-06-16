@@ -26,9 +26,12 @@ Write basic SQL queries (WHERE, ORDER BY) to find answers.<br>
 Share what you learned from the answers.
 
 <h3>What is the most popular Social Media platform among students in the United States?</h3>
-The most popular Social Media platform among students in the United States is Instagram, followed by Facebook then Youtube.
-![image](https://github.com/KaKaCodes1/SocialMedia_MySQL_Project/assets/139960971/327347a3-d924-40c9-ab03-aaf0b1c7dd4c)
+The most popular Social Media platform among students in the United States is Instagram, followed by Facebook then Youtube.<br>
+<image width=248 src="https://github.com/KaKaCodes1/SocialMedia_MySQL_Project/assets/139960971/327347a3-d924-40c9-ab03-aaf0b1c7dd4c">
 
 
 <h3>What are the most popular interests among men that use Instagram? </h3>
-The most popular interests among men that use Instagram are: Travel with 45 men, Lifestyle with 43 and Sports with 40.
+From the data obtained, the most popular interests among men that use Instagram are: Travel with 45 men, Lifestyle with 43 and Sports with 40.
+<br>
+<img width="248" alt="image" src="https://github.com/KaKaCodes1/SocialMedia_MySQL_Project/assets/139960971/367e53eb-1f00-4e82-9451-7611529fa868">
+"
