@@ -1,5 +1,8 @@
 # Social Media_MySQL_Project 
 
+<h2>Presentation Pitch Deck</h2>
+<a href="https://www.canva.com/design/DAGIBAE-EsM/L8CjZvUQyhKZbDfjQ2uRcw/edit?utm_content=DAGIBAE-EsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link To The Canva Document</a>
+
 <h2>1. Data Dive (10 pts):</h2>
 
 So I decided to choose the Social Media Users Dataset to work on in my project. I did not encounter any challenges when importing the CSV file into MySQL Workbench.
@@ -39,4 +42,5 @@ The most popular Social Media platform among students in the United States is In
 From the data obtained, the most popular interests among men that use Instagram are: Travel with 45 men, Lifestyle with 43 and Sports with 40.
 <br> <br>
 <img width=300 alt="image" src="https://github.com/KaKaCodes1/SocialMedia_MySQL_Project/assets/139960971/367e53eb-1f00-4e82-9451-7611529fa868">
+
 
